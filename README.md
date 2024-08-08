@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatheusSc17
-- 👀 Tenho interesse em banco de dados, e estou cursando ciências da computação (3 semestre).
+- 👀 Tenho interesse em banco de dados, e estou cursando ciências da computação (7 semestre).
 - 🌱 I’m currently learning  sobre banco de dados no MYSQL e tbm sobre modelação de dados no BRmodelo.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : matheus.schonhardtbr@gmail.com
