@@ -10,6 +10,7 @@ matheus.schonhardt.ti@gmail.com
 
 🚀 Tecnologias e Ferramentas
 -SQL (MySQL, SQLserver e PostGree): intermediário
+- Power BI - Básico 
 - Modelagem de dados: Intermediário
 - PHP Básico
 - HTML/CSS/Javascript - Basico
